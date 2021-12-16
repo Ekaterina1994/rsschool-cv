@@ -1,4 +1,4 @@
-![myPhoto](/img/myPhoto.jpg =250px "My photo")
+![myPhoto](/img/myPhoto.jpg "My photo")
 
 # *Ekaterina Veretennikova* 
 
@@ -23,7 +23,7 @@ I've been working as an editor for the past few years. However, recently my inte
 * CSS (basic).
 ---
 
-## Code examples
+## Code example
 
 Function "Hello, world!"
 
@@ -39,7 +39,7 @@ greet();
 ## Experience
 
 **Year** | **Job**
-:-------:|--------
+---------|--------
 2016-2018| specialist of the I category
 2018-2020| assistant Director
 2021-present| copywriter
@@ -50,13 +50,12 @@ greet();
 
 **_IT-education_**
 
-2021-present, RSSchool,
+2021-present, RSSchool,  
 **specialization:** JS/front-end
 
 **_Higher education_**
 
-2011-2016, Belarusian State Technological University, 
-
+2011-2016, Belarusian State Technological University,  
 **specialization:** publishing, **qualification:** editor-technologist
 
 ---
