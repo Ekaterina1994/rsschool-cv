@@ -1,12 +1,12 @@
-![myPhoto](/img/myPhoto.jpg "My photo")
+![myPhoto](/img/myPhoto.jpg =250px "My photo")
 
 # *Ekaterina Veretennikova* 
 
 ## Contact info
 
-**Phone:** 5502641
-**E-mail:** katishteno@mail.ru
-**Discord:** Ekaterina(@Ekaterina1994)
+**Phone:** 5502641  
+**E-mail:** katishteno@mail.ru  
+**Discord:** Ekaterina(@Ekaterina1994)  
 **GitHub:** [Ekaterina1994](https://github.com/Ekaterina1994)
 
 ---
