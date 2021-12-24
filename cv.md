@@ -1,10 +1,10 @@
-![myPhoto](/img/myPhoto.jpg "My photo")
+![myPhoto](img/myPhoto.jpg 'My photo')
 
-# *Ekaterina Veretennikova* 
+# _Ekaterina Veretennikova_
 
 ## Contact info
 
-**Phone:** 5502641  
+**Phone:** +375295502641(MTC), +375259582878(Life)  
 **E-mail:** katishteno@mail.ru  
 **Discord:** Ekaterina(@Ekaterina1994)  
 **GitHub:** [Ekaterina1994](https://github.com/Ekaterina1994)
@@ -13,14 +13,17 @@
 
 ## About me
 
-I've been working as an editor for the past few years. However, recently my interests have changed dramatically. Now I want to become a front-end developer. I hope my dream will become a reality soon. 
+After receiving my philological education, I worked for several years as an assistant director at the Writers' Union. In addition to the main duties of the secretary, I helped the authors to edit and make up manuscripts.
+Later I had the experience of organizing and conducting international literary competitions for children and teenagers.
+Now I work as a copywriter in the field of show business. However, recently my interests have changed. Now I want to become a front-end developer. I hope that my dream will become a reality soon.
 
 ---
 
 ## Skills
 
-* HTML (basic);
-* CSS (basic).
+-   HTML (basic)
+-   CSS (basic)
+
 ---
 
 ## Code example
@@ -38,11 +41,11 @@ greet();
 
 ## Experience
 
-**Year** | **Job**
----------|--------
-2016-2018| specialist of the I category
-2018-2020| assistant Director
-2021-present| copywriter
+| **Years**    | **Job**                                                                                                                                                                                                     |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2021-present | writer and copywriter: articles on any subject (but mostly show business)                                                                                                                                   |
+| 2018-2020    | assistant Director of the organization in the Czech Republic: organization of literary contests, communication with participants, layout and design of materials for mailing lists (diplomas, certificates) |
+| 2016-2018    | specialist of the I category (secretary of Writer's Union): work with office equipment, communication with members of the organization (more than 300 people), editing and layout of manuscripts            |
 
 ---
 
@@ -62,5 +65,7 @@ greet();
 
 ## Languages
 
-1. English (level B1)
-2. Czech (level A1)
+1. Russian (Native)
+2. Belorussian (Native)
+3. English (level B1)
+4. Czech (level A1)
