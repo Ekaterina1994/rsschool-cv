@@ -1,6 +1,9 @@
 * {
 	margin: 0;
 	padding: 0;
+	font-family: 'Manrope', sans-serif;
+	font-size: 25px;
+	/* font-family: 'Montserrat', sans-serif;*/
 }
 
 html {
@@ -12,11 +15,19 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+   box-shadow: 0 0 8px 8px rgb(225, 233, 111) inset;
 }
 
 .container {
 	max-width: 1440px;
 	margin: 0 auto;
+	border: 5px solid red;
+}
+
+.portrait {
+	background-image: url(assets/img/myPhoto.jpg);
+	width: 200px;
+	border-radius: 10px;
 }
 
 .nav-list {
@@ -31,6 +42,8 @@ body {
 	line-height: 50px;
 	text-decoration: none;
 	transition: 0.3s;
+	border: 10px solid transparent;
+	border-bottom: 10px solid green;
 }
 
 .nav-item:hover {
