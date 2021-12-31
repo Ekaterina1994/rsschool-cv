@@ -2,12 +2,14 @@
 	margin: 0;
 	padding: 0;
 	font-family: 'Manrope', sans-serif;
-	font-size: 25px;
-	/* font-family: 'Montserrat', sans-serif;*/
+	font-size: 20px;
+	line-height: 1.8;
+   list-style: none;
 }
 
 html {
 	scroll-behavior: smooth;
+   background-color: rgba(221, 189, 177, 0.1);
 }
 
 body {
@@ -15,26 +17,41 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-   box-shadow: 0 0 8px 8px rgb(225, 233, 111) inset;
+}
+
+h1,
+h2,
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	color: rgb(90, 26, 0);
+   border-right: 5px solid rgb(90, 26, 0);
+   text-transform: uppercase;
+}
+
+h2 {
+	background-color: rgb(230, 144, 110);
+	padding-left: 20px;
 }
 
 .container {
 	max-width: 1440px;
 	margin: 0 auto;
-	border: 5px solid red;
 }
 
 .portrait {
-	background-image: url(assets/img/myPhoto.jpg);
 	width: 200px;
 	border-radius: 10px;
+}
+
+.header {
+	background-color: rgb(230, 144, 110);
+	margin-bottom: 30px;
 }
 
 .nav-list {
 	display: flex;
 	justify-content: flex-end;
 	align-items: center;
-	list-style: none;
 }
 
 .nav-link {
@@ -42,19 +59,72 @@ body {
 	line-height: 50px;
 	text-decoration: none;
 	transition: 0.3s;
-	border: 10px solid transparent;
-	border-bottom: 10px solid green;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+	color: rgb(90, 26, 0);
+   border-right: 2px solid rgb(90, 26, 0);
 }
 
-.nav-item:hover {
-	color: red;
+.nav-link:hover {
+	color: rgb(221, 189, 177);
+	text-shadow: 0 0 10px rgb(90, 26, 0);
 }
 
 .main-container {
 	display: flex;
 	flex-wrap: wrap;
+   justify-content: space-between;
 }
 
 .section {
-	width: 50%;
+	width: 49%;
+	padding-bottom: 30px;
 }
+
+.section-title-h1 {
+	text-transform: uppercase;
+	font-size: 25px;
+}
+
+.section-title {
+	font-size: 22px;
+}
+
+.section-profile {
+	display: flex;
+	justify-content: space-around;
+}
+
+.name-profession {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.portrait {
+	float: right;
+}
+
+.footer {
+	background-color: rgb(230, 144, 110);
+}
+
+.main-container {
+	display: flex;
+}
+
+.contacts {
+	margin: 20px 20px;
+}
+.section-summary {
+	margin: 20px 20px;
+}
+
+.skills-list {
+	margin: 20px 20px;
+}
+
+.skill-item:before {
+   content: '✓';
+   color:rgb(90, 26, 0);
+ }
