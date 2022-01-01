@@ -1,4 +1,4 @@
-![myPhoto](img/myPhoto.jpg 'My photo')
+![myPhoto](assets/img/myPhoto.jpg 'My photo')
 
 # _Ekaterina Veretennikova_
 
