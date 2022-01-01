@@ -107,6 +107,15 @@ h2 {
 
 .footer {
 	background-color: rgb(230, 144, 110);
+   height: 100px;
+}
+
+.footer-info {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   height: 100px;
 }
 
 .main-container {
@@ -127,4 +136,72 @@ h2 {
 .skill-item:before {
    content: '✓';
    color:rgb(90, 26, 0);
- }
+}
+
+.code-example {
+	margin: 20px 20px;    
+}
+
+.function-description {
+   text-transform: uppercase;
+   margin-bottom: 20px;
+}
+
+.code-description {
+   border-left: 5px solid rgb(90, 26, 0);
+}
+
+.courses-list {
+	margin: 20px 20px;  
+}
+
+.course-item:before {
+   content: '✓';
+   color:rgb(90, 26, 0);    
+}
+
+.projects-list {
+	margin: 20px 20px;   
+}
+.education-areas {
+   margin: 20px 20px;   
+}
+
+.areas-section-title {
+   border: none;
+}
+
+.languages-list {
+	margin: 20px 20px;     
+}
+
+.language-item:before {
+   content: '✓';
+   color:rgb(90, 26, 0);    
+}
+
+.github-link {
+   padding: 0 20px;
+   text-decoration: none;
+   transition: 0.3s;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+	color: rgb(90, 26, 0);
+   border-right: 2px solid rgb(90, 26, 0);
+}
+
+.github-link:hover {
+	color: rgb(221, 189, 177);
+}
+
+.school-logo {
+   width: 150px;
+
+}
+
+.footer-item {
+   margin: 0 20px;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 22px;
+   color: rgb(90, 26, 0);
+}
