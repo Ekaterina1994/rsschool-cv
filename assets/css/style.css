@@ -1,0 +1,221 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Manrope', sans-serif;
+	font-size: 20px;
+	line-height: 1.8;
+	list-style: none;
+}
+
+html {
+	scroll-behavior: smooth;
+	background-color: rgba(221, 189, 177, 0.1);
+}
+
+body {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+h1,
+h2,
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	color: rgb(90, 26, 0);
+	border-right: 5px solid rgb(90, 26, 0);
+	text-transform: uppercase;
+}
+
+h2 {
+	background-color: rgb(230, 144, 110);
+	padding-left: 20px;
+}
+
+.container {
+	max-width: 1440px;
+	margin: 0 auto;
+}
+
+.portrait {
+   height: 250px;
+   width: auto;
+	border-radius: 10px;
+}
+
+.header {
+	background-color: rgb(230, 144, 110);
+	margin-bottom: 30px;
+}
+
+.nav-list {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.nav-link {
+	padding: 0 20px;
+	line-height: 50px;
+	text-decoration: none;
+	transition: 0.3s;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+	color: rgb(90, 26, 0);
+	border-right: 2px solid rgb(90, 26, 0);
+}
+
+.nav-link:hover {
+	color: rgb(221, 189, 177);
+	text-shadow: 0 0 10px rgb(90, 26, 0);
+}
+
+.main-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.section {
+	width: 49%;
+	padding-bottom: 30px;
+}
+
+.section-title-h1 {
+	text-transform: uppercase;
+	font-size: 25px;
+}
+
+.section-title {
+	font-size: 22px;
+}
+
+.section-profile {
+	display: flex;
+	justify-content: space-around;
+}
+
+.name-profession {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.portrait {
+	float: right;
+}
+
+.footer {
+	background-color: rgb(230, 144, 110);
+	height: 100px;
+}
+
+.footer-info {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	height: 100px;
+}
+
+.main-container {
+	display: flex;
+}
+
+.contacts {
+	margin: 20px 20px;
+}
+.section-summary {
+	margin: 20px 20px;
+}
+
+.skills-list {
+	margin: 20px 20px;
+}
+
+.skill-item:before {
+	content: '✓';
+	color: rgb(90, 26, 0);
+}
+
+.code-example {
+	margin: 20px 20px;
+}
+
+.function-description {
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+
+.code-description {
+	border-left: 5px solid rgb(90, 26, 0);
+}
+
+.courses-list {
+	margin: 20px 20px;
+}
+
+.course-item:before {
+	content: '✓';
+	color: rgb(90, 26, 0);
+}
+
+.projects-list {
+	margin: 20px 20px;
+}
+
+.education-areas {
+	margin: 20px 20px;
+}
+
+.areas-section-title {
+	border: none;
+}
+
+.languages-list {
+	margin: 20px 20px;
+}
+
+.language-item:before {
+	content: '✓';
+	color: rgb(90, 26, 0);
+}
+
+.github-link {
+	padding: 0 20px;
+	text-decoration: none;
+	transition: 0.3s;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+	color: rgb(90, 26, 0);
+	border-right: 2px solid rgb(90, 26, 0);
+}
+
+.github-link:hover {
+	color: rgb(221, 189, 177);
+}
+
+.cv-link {
+   color: rgb(90, 26, 0);
+}
+
+.school-logo {
+	width: 150px;
+   padding-right: 20px;
+}
+
+.footer-item {
+	margin: 0 20px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+	color: rgb(90, 26, 0);
+}
+
+
+@media (max-width: 768px) {
+
+   .section {
+      width: 100%;
+   }
+ }
