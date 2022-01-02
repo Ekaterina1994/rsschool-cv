@@ -1,15 +1,14 @@
 * {
-	margin: 0;
+   margin: 0;
 	padding: 0;
-	font-family: 'Manrope', sans-serif;
-	font-size: 20px;
-	line-height: 1.8;
-	list-style: none;
+   font-family: 'Manrope', sans-serif;
 }
 
 html {
 	scroll-behavior: smooth;
 	background-color: rgba(221, 189, 177, 0.1);
+	font-size: 20px;
+	line-height: 1.8;
 }
 
 .body-class {
@@ -53,6 +52,7 @@ html {
 	display: flex;
 	justify-content: flex-end;
 	align-items: center;
+   list-style: none;
 }
 
 .nav-link {
@@ -125,6 +125,7 @@ html {
 
 .contacts {
 	margin: 20px 20px;
+   list-style: none;
 }
 .section-summary {
 	margin: 20px 20px;
@@ -132,6 +133,7 @@ html {
 
 .skills-list {
 	margin: 20px 20px;
+   list-style: none;
 }
 
 .skill-item:before {
@@ -155,6 +157,7 @@ html {
 
 .courses-list {
 	margin: 20px 20px;
+   list-style: none;
 }
 
 .course-item:before {
@@ -164,6 +167,7 @@ html {
 
 .projects-list {
 	margin: 20px 20px;
+   list-style: none;
 }
 
 .education-areas {
@@ -176,6 +180,7 @@ html {
 
 .languages-list {
 	margin: 20px 20px;
+   list-style: none;
 }
 
 .language-item:before {
