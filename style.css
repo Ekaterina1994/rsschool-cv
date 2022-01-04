@@ -53,6 +53,7 @@ html {
 	justify-content: flex-end;
 	align-items: center;
    list-style: none;
+   padding-right: 20px;
 }
 
 .nav-link {
