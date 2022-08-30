@@ -4,9 +4,10 @@
 
 ## Contact info
 
-**Phone:** +375295502641(MTC), +375259582878(Life)  
+**Phone:** +375259582878(Life)  
 **E-mail:** katishteno@mail.ru  
-**Discord:** Ekaterina(@Ekaterina1994)  
+**Discord:** Ekaterina(@Ekaterina1994)
+**LinkedIn:** [Ekaterina Veretennikova](https://www.linkedin.com/in/ekaterina-veretennikova-73b22521b/)
 **GitHub:** [Ekaterina1994](https://github.com/Ekaterina1994)
 
 ---
@@ -21,8 +22,11 @@ Now I work as a copywriter in the field of show business. However, recently my i
 
 ## Skills
 
--   HTML (basic)
--   CSS (basic)
+-   React
+-   TypeScript (+ JS)
+-   HTML, CSS, SASS, LESS
+-   GIT
+-   PhotoShop, Figma, Krita
 
 ---
 
@@ -56,6 +60,9 @@ greet();
 2021-present, RSSchool,  
 **specialization:** JS/front-end
 
+2021-May 2022, “Javacsript: новый уровень” by WAYUP,
+specialization: frontend-developer
+
 **_Higher education_**
 
 2011-2016, Belarusian State Technological University,  
@@ -67,5 +74,5 @@ greet();
 
 1. Russian (Native)
 2. Belorussian (Native)
-3. English (level B1)
+3. English (level B1+)
 4. Czech (level A1)
