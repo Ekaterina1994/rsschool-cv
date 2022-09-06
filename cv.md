@@ -1,4 +1,3 @@
-![myPhoto](assets/img/myPhoto.jpg 'My photo')
 <img src="assets/img/myPhoto.jpg" width="375" alt="My photo">
 
 # _Ekaterina Veretennikova_
@@ -8,7 +7,7 @@
 
 **Phone:** +375259582878(Life)  
 **E-mail:** katishteno@mail.ru  
-**Discord:** [Ekaterina#8937](Ekaterina#8937)  
+**Discord:** Ekaterina#8937  
 **LinkedIn:** [Ekaterina Veretennikova](https://www.linkedin.com/in/ekaterina-veretennikova-73b22521b/)  
 **Telegram:**[Ekaterina Veretennikova](https://t.me/Ekaterina499)  
 **GitHub:** [Ekaterina1994](https://github.com/Ekaterina1994)  
@@ -19,7 +18,11 @@
 
 [QUIZ](https://github.com/Ekaterina1994/quiz) is is my latest SPA application that I am working on using technology (REACT, Typescript).  
 I also develop my soft skills. This is not the first time I work in a team and I am a group manager. I recently
-started a [YouTube channel](https://www.youtube.com/channel/UCEzXFClFND8K9vqYSfb3YAA) where I post a brief description of the work on the project.
+started a [YouTube channel](https://www.youtube.com/channel/UCEzXFClFND8K9vqYSfb3YAA) where I post a brief description of the work on the project.  
+  
+I'm ready to discuss any job offers and answer your questions.  
+Send me an email at a convenient time for you: katishteno@mail.ru
+
 
 ---
 
